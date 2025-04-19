@@ -1,0 +1,962 @@
+[
+    {
+        "size": 147,
+        "results": [
+            {
+                "compile time": 0.5098271,
+                "build time": 0.078912,
+                "write time": 0.0215523,
+                "global bits": 0,
+                "local prefixes": 658,
+                "avg bit length": 10.04711246200608,
+                "max bit length": 11,
+                "min bit length": 6,
+                "test time": 1.2306571
+            },
+            {
+                "compile time": 0.4903622,
+                "build time": 0.0777302,
+                "write time": 0.0158358,
+                "global bits": 0,
+                "local prefixes": 642,
+                "avg bit length": 10.003115264797508,
+                "max bit length": 11,
+                "min bit length": 6,
+                "test time": 1.1373808
+            },
+            {
+                "compile time": 0.4620299,
+                "build time": 0.0715609,
+                "write time": 0.0201998,
+                "global bits": 0,
+                "local prefixes": 620,
+                "avg bit length": 9.951612903225806,
+                "max bit length": 11,
+                "min bit length": 6,
+                "test time": 0.8049359
+            },
+            {
+                "compile time": 0.4887881,
+                "build time": 0.0727122,
+                "write time": 0.0148022,
+                "global bits": 0,
+                "local prefixes": 652,
+                "avg bit length": 10.029141104294478,
+                "max bit length": 11,
+                "min bit length": 6,
+                "test time": 0.5658529
+            },
+            {
+                "compile time": 0.4780571,
+                "build time": 0.077296,
+                "write time": 0.0299623,
+                "global bits": 0,
+                "local prefixes": 629,
+                "avg bit length": 9.99523052464229,
+                "max bit length": 11,
+                "min bit length": 6,
+                "test time": 0.873343
+            }
+        ]
+    },
+    {
+        "size": 153,
+        "results": [
+            {
+                "compile time": 0.4917891,
+                "build time": 0.0830209,
+                "write time": 0.0180421,
+                "global bits": 0,
+                "local prefixes": 704,
+                "avg bit length": 10.048295454545455,
+                "max bit length": 11,
+                "min bit length": 6,
+                "test time": 0.517065
+            },
+            {
+                "compile time": 0.4633992,
+                "build time": 0.080785,
+                "write time": 0.0180171,
+                "global bits": 0,
+                "local prefixes": 688,
+                "avg bit length": 10.087209302325581,
+                "max bit length": 11,
+                "min bit length": 6,
+                "test time": 0.5632269
+            },
+            {
+                "compile time": 0.4731679,
+                "build time": 0.08113,
+                "write time": 0.0149531,
+                "global bits": 0,
+                "local prefixes": 692,
+                "avg bit length": 10.03757225433526,
+                "max bit length": 11,
+                "min bit length": 6,
+                "test time": 0.5694342
+            },
+            {
+                "compile time": 0.4790239,
+                "build time": 0.079916,
+                "write time": 0.015059,
+                "global bits": 0,
+                "local prefixes": 698,
+                "avg bit length": 10.034383954154729,
+                "max bit length": 11,
+                "min bit length": 6,
+                "test time": 0.629915
+            },
+            {
+                "compile time": 0.4741461,
+                "build time": 0.0787909,
+                "write time": 0.0233788,
+                "global bits": 0,
+                "local prefixes": 709,
+                "avg bit length": 10.077574047954865,
+                "max bit length": 11,
+                "min bit length": 6,
+                "test time": 0.5532072
+            }
+        ]
+    },
+    {
+        "size": 447,
+        "results": [
+            {
+                "compile time": 0.5151372,
+                "build time": 0.332829,
+                "write time": 0.0582569,
+                "global bits": 0,
+                "local prefixes": 887,
+                "avg bit length": 10.422773393461105,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.667619
+            },
+            {
+                "compile time": 0.6525681,
+                "build time": 0.3313701,
+                "write time": 0.089231,
+                "global bits": 0,
+                "local prefixes": 910,
+                "avg bit length": 10.438461538461539,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.5994179
+            },
+            {
+                "compile time": 0.465802,
+                "build time": 0.3383491,
+                "write time": 0.059859,
+                "global bits": 0,
+                "local prefixes": 917,
+                "avg bit length": 10.44165757906216,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.5722399
+            },
+            {
+                "compile time": 0.5078852,
+                "build time": 0.3397987,
+                "write time": 0.0781581,
+                "global bits": 0,
+                "local prefixes": 948,
+                "avg bit length": 10.487341772151899,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.628427
+            },
+            {
+                "compile time": 0.484772,
+                "build time": 0.3167369,
+                "write time": 0.0531442,
+                "global bits": 0,
+                "local prefixes": 891,
+                "avg bit length": 10.433221099887767,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.679579
+            }
+        ]
+    },
+    {
+        "size": 474,
+        "results": [
+            {
+                "compile time": 0.4450951,
+                "build time": 0.3851149,
+                "write time": 0.0620089,
+                "global bits": 0,
+                "local prefixes": 931,
+                "avg bit length": 10.502685284640172,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.691725
+            },
+            {
+                "compile time": 0.4416358,
+                "build time": 0.3393478,
+                "write time": 0.0609128,
+                "global bits": 0,
+                "local prefixes": 935,
+                "avg bit length": 10.495187165775402,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.5978818
+            },
+            {
+                "compile time": 0.4317498,
+                "build time": 0.3479669,
+                "write time": 0.0654662,
+                "global bits": 0,
+                "local prefixes": 930,
+                "avg bit length": 10.498924731182795,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.5463889
+            },
+            {
+                "compile time": 0.4412448,
+                "build time": 0.3435709,
+                "write time": 0.0717199,
+                "global bits": 0,
+                "local prefixes": 917,
+                "avg bit length": 10.455834242093784,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.5634627
+            },
+            {
+                "compile time": 0.4401863,
+                "build time": 0.3404458,
+                "write time": 0.0635471,
+                "global bits": 0,
+                "local prefixes": 962,
+                "avg bit length": 10.506237006237006,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.5665941
+            }
+        ]
+    },
+    {
+        "size": 488,
+        "results": [
+            {
+                "compile time": 0.4450371,
+                "build time": 0.348876,
+                "write time": 0.0684421,
+                "global bits": 0,
+                "local prefixes": 935,
+                "avg bit length": 10.504812834224598,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.6308711
+            },
+            {
+                "compile time": 0.4721241,
+                "build time": 0.352525,
+                "write time": 0.0752702,
+                "global bits": 0,
+                "local prefixes": 899,
+                "avg bit length": 10.469410456062292,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.580337
+            },
+            {
+                "compile time": 0.4485922,
+                "build time": 0.3509192,
+                "write time": 0.062922,
+                "global bits": 0,
+                "local prefixes": 920,
+                "avg bit length": 10.479347826086956,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.621299
+            },
+            {
+                "compile time": 0.4341929,
+                "build time": 0.3405511,
+                "write time": 0.1174519,
+                "global bits": 0,
+                "local prefixes": 931,
+                "avg bit length": 10.474758324382385,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.6440549
+            },
+            {
+                "compile time": 0.4402642,
+                "build time": 0.3281651,
+                "write time": 0.0843861,
+                "global bits": 0,
+                "local prefixes": 893,
+                "avg bit length": 10.451287793952968,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.6367922
+            }
+        ]
+    },
+    {
+        "size": 593,
+        "results": [
+            {
+                "compile time": 0.4609363,
+                "build time": 0.469131,
+                "write time": 0.095547,
+                "global bits": 0,
+                "local prefixes": 930,
+                "avg bit length": 10.55268817204301,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 1.3512259
+            },
+            {
+                "compile time": 0.4279292,
+                "build time": 0.471679,
+                "write time": 0.1055441,
+                "global bits": 0,
+                "local prefixes": 968,
+                "avg bit length": 10.610537190082646,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 1.09495
+            },
+            {
+                "compile time": 0.4276528,
+                "build time": 0.4625669,
+                "write time": 0.080934,
+                "global bits": 0,
+                "local prefixes": 969,
+                "avg bit length": 10.590299277605778,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.741524
+            },
+            {
+                "compile time": 0.446785,
+                "build time": 0.4281609,
+                "write time": 0.1054878,
+                "global bits": 0,
+                "local prefixes": 926,
+                "avg bit length": 10.544276457883369,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.6098471
+            },
+            {
+                "compile time": 0.4287441,
+                "build time": 0.4556191,
+                "write time": 0.089123,
+                "global bits": 0,
+                "local prefixes": 921,
+                "avg bit length": 10.547231270358306,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.5672271
+            }
+        ]
+    },
+    {
+        "size": 630,
+        "results": [
+            {
+                "compile time": 0.522176,
+                "build time": 0.544126,
+                "write time": 0.1598012,
+                "global bits": 0,
+                "local prefixes": 930,
+                "avg bit length": 10.576344086021505,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.6096392
+            },
+            {
+                "compile time": 0.436481,
+                "build time": 0.4583259,
+                "write time": 0.0996943,
+                "global bits": 0,
+                "local prefixes": 905,
+                "avg bit length": 10.564640883977901,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.6540139
+            },
+            {
+                "compile time": 0.4276881,
+                "build time": 0.4747541,
+                "write time": 0.09356,
+                "global bits": 0,
+                "local prefixes": 952,
+                "avg bit length": 10.608193277310924,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.5705831
+            },
+            {
+                "compile time": 0.4100339,
+                "build time": 0.5284717,
+                "write time": 0.1406951,
+                "global bits": 0,
+                "local prefixes": 933,
+                "avg bit length": 10.592711682743838,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 0.8815517
+            },
+            {
+                "compile time": 0.43065,
+                "build time": 0.4689829,
+                "write time": 0.0908148,
+                "global bits": 0,
+                "local prefixes": 914,
+                "avg bit length": 10.565645514223196,
+                "max bit length": 11,
+                "min bit length": 7,
+                "test time": 1.4250369
+            }
+        ]
+    },
+    {
+        "size": 1002,
+        "results": [
+            {
+                "compile time": 0.4228711,
+                "build time": 0.7949159,
+                "write time": 0.1513753,
+                "global bits": 0,
+                "local prefixes": 827,
+                "avg bit length": 10.769044740024183,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.5853419
+            },
+            {
+                "compile time": 0.354872,
+                "build time": 0.677434,
+                "write time": 0.1438649,
+                "global bits": 0,
+                "local prefixes": 797,
+                "avg bit length": 10.72271016311167,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.535064
+            },
+            {
+                "compile time": 0.3637121,
+                "build time": 0.6723471,
+                "write time": 0.1510048,
+                "global bits": 0,
+                "local prefixes": 792,
+                "avg bit length": 10.719696969696969,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.6867201
+            },
+            {
+                "compile time": 0.3747969,
+                "build time": 0.707185,
+                "write time": 0.1512027,
+                "global bits": 0,
+                "local prefixes": 796,
+                "avg bit length": 10.717336683417086,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.6526132
+            },
+            {
+                "compile time": 0.3571651,
+                "build time": 0.7398491,
+                "write time": 0.1829877,
+                "global bits": 0,
+                "local prefixes": 804,
+                "avg bit length": 10.730099502487562,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.7217579
+            }
+        ]
+    },
+    {
+        "size": 1047,
+        "results": [
+            {
+                "compile time": 0.3648152,
+                "build time": 0.7562411,
+                "write time": 0.165123,
+                "global bits": 0,
+                "local prefixes": 802,
+                "avg bit length": 10.768079800498754,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 1.559546
+            },
+            {
+                "compile time": 0.353682,
+                "build time": 0.7264693,
+                "write time": 0.1555102,
+                "global bits": 0,
+                "local prefixes": 784,
+                "avg bit length": 10.758928571428571,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.6735108
+            },
+            {
+                "compile time": 0.3659039,
+                "build time": 0.7319219,
+                "write time": 0.152972,
+                "global bits": 0,
+                "local prefixes": 787,
+                "avg bit length": 10.75730622617535,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.733521
+            },
+            {
+                "compile time": 0.403851,
+                "build time": 0.7849529,
+                "write time": 0.1506479,
+                "global bits": 0,
+                "local prefixes": 795,
+                "avg bit length": 10.767295597484276,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.772027
+            },
+            {
+                "compile time": 0.3467159,
+                "build time": 0.7091022,
+                "write time": 0.1610072,
+                "global bits": 0,
+                "local prefixes": 812,
+                "avg bit length": 10.77832512315271,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.9107928
+            }
+        ]
+    },
+    {
+        "size": 1149,
+        "results": [
+            {
+                "compile time": 0.3102639,
+                "build time": 0.7006738,
+                "write time": 0.1601641,
+                "global bits": 0,
+                "local prefixes": 732,
+                "avg bit length": 10.78551912568306,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 1.0219913
+            },
+            {
+                "compile time": 0.3492877,
+                "build time": 0.7427819,
+                "write time": 0.1726699,
+                "global bits": 0,
+                "local prefixes": 701,
+                "avg bit length": 10.741797432239657,
+                "max bit length": 11,
+                "min bit length": 8,
+                "test time": 0.642895
+            },
+            {
+                "compile time": 0.3351612,
+                "build time": 0.7643888,
+                "write time": 0.1732569,
+                "global bits": 0,
+                "local prefixes": 738,
+                "avg bit length": 10.791327913279133,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.6819878
+            },
+            {
+                "compile time": 0.3410921,
+                "build time": 0.7578738,
+                "write time": 0.191783,
+                "global bits": 0,
+                "local prefixes": 732,
+                "avg bit length": 10.795081967213115,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.5615001
+            },
+            {
+                "compile time": 0.3272271,
+                "build time": 0.7596459,
+                "write time": 0.170476,
+                "global bits": 0,
+                "local prefixes": 714,
+                "avg bit length": 10.760504201680673,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.67151
+            }
+        ]
+    },
+    {
+        "size": 1436,
+        "results": [
+            {
+                "compile time": 0.2516541,
+                "build time": 0.847476,
+                "write time": 0.244688,
+                "global bits": 0,
+                "local prefixes": 540,
+                "avg bit length": 10.868518518518519,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 1.2662139
+            },
+            {
+                "compile time": 0.2597029,
+                "build time": 0.870604,
+                "write time": 0.2504721,
+                "global bits": 0,
+                "local prefixes": 536,
+                "avg bit length": 10.867537313432836,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 1.0424938
+            },
+            {
+                "compile time": 0.2461112,
+                "build time": 0.8358772,
+                "write time": 0.2381241,
+                "global bits": 0,
+                "local prefixes": 514,
+                "avg bit length": 10.815175097276265,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.7010131
+            },
+            {
+                "compile time": 0.2482042,
+                "build time": 0.8655479,
+                "write time": 0.2844033,
+                "global bits": 0,
+                "local prefixes": 524,
+                "avg bit length": 10.83969465648855,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 1.0565808
+            },
+            {
+                "compile time": 0.2752888,
+                "build time": 0.9185212,
+                "write time": 0.3163872,
+                "global bits": 0,
+                "local prefixes": 532,
+                "avg bit length": 10.859022556390977,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.9400027
+            }
+        ]
+    },
+    {
+        "size": 1464,
+        "results": [
+            {
+                "compile time": 0.222944,
+                "build time": 0.732332,
+                "write time": 0.2255049,
+                "global bits": 0,
+                "local prefixes": 510,
+                "avg bit length": 10.864705882352942,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 1.2153091
+            },
+            {
+                "compile time": 0.245065,
+                "build time": 0.8111689,
+                "write time": 0.2487669,
+                "global bits": 0,
+                "local prefixes": 510,
+                "avg bit length": 10.86078431372549,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 1.459641
+            },
+            {
+                "compile time": 0.2862153,
+                "build time": 0.8618431,
+                "write time": 0.255497,
+                "global bits": 0,
+                "local prefixes": 520,
+                "avg bit length": 10.884615384615385,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 1.25915
+            },
+            {
+                "compile time": 0.2330041,
+                "build time": 0.7939909,
+                "write time": 0.2450378,
+                "global bits": 0,
+                "local prefixes": 512,
+                "avg bit length": 10.8671875,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.8117278
+            },
+            {
+                "compile time": 0.2633574,
+                "build time": 0.8631041,
+                "write time": 0.3095219,
+                "global bits": 0,
+                "local prefixes": 539,
+                "avg bit length": 10.918367346938776,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 1.1470628
+            }
+        ]
+    },
+    {
+        "size": 1474,
+        "results": [
+            {
+                "compile time": 0.242615,
+                "build time": 0.8289368,
+                "write time": 0.316572,
+                "global bits": 0,
+                "local prefixes": 519,
+                "avg bit length": 10.897880539499036,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 1.1658881
+            },
+            {
+                "compile time": 0.2300708,
+                "build time": 0.8194492,
+                "write time": 0.2404349,
+                "global bits": 0,
+                "local prefixes": 510,
+                "avg bit length": 10.876470588235295,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.7268157
+            },
+            {
+                "compile time": 0.2333581,
+                "build time": 0.795105,
+                "write time": 0.276691,
+                "global bits": 0,
+                "local prefixes": 507,
+                "avg bit length": 10.871794871794872,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.6472619
+            },
+            {
+                "compile time": 0.233521,
+                "build time": 0.8029959,
+                "write time": 0.2279129,
+                "global bits": 0,
+                "local prefixes": 510,
+                "avg bit length": 10.876470588235295,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.8537619
+            },
+            {
+                "compile time": 0.2400491,
+                "build time": 0.819134,
+                "write time": 0.252311,
+                "global bits": 0,
+                "local prefixes": 518,
+                "avg bit length": 10.895752895752896,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.611464
+            }
+        ]
+    },
+    {
+        "size": 1686,
+        "results": [
+            {
+                "compile time": 0.164047,
+                "build time": 0.7813213,
+                "write time": 0.2925391,
+                "global bits": 0,
+                "local prefixes": 338,
+                "avg bit length": 10.928994082840237,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.645225
+            },
+            {
+                "compile time": 0.1761642,
+                "build time": 0.882514,
+                "write time": 0.3481281,
+                "global bits": 0,
+                "local prefixes": 335,
+                "avg bit length": 10.919402985074626,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.6474009
+            },
+            {
+                "compile time": 0.1636069,
+                "build time": 0.803062,
+                "write time": 0.3082161,
+                "global bits": 0,
+                "local prefixes": 349,
+                "avg bit length": 10.962750716332378,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.7169139
+            },
+            {
+                "compile time": 0.1656158,
+                "build time": 0.7905712,
+                "write time": 0.2869723,
+                "global bits": 0,
+                "local prefixes": 335,
+                "avg bit length": 10.922388059701493,
+                "max bit length": 11,
+                "min bit length": 9,
+                "test time": 0.663713
+            },
+            {
+                "compile time": 0.1719341,
+                "build time": 0.817534,
+                "write time": 0.2958601,
+                "global bits": 0,
+                "local prefixes": 340,
+                "avg bit length": 10.935294117647059,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.6850567
+            }
+        ]
+    },
+    {
+        "size": 1834,
+        "results": [
+            {
+                "compile time": 0.1060278,
+                "build time": 0.6347141,
+                "write time": 0.3317759,
+                "global bits": 0,
+                "local prefixes": 204,
+                "avg bit length": 10.950980392156863,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.623296
+            },
+            {
+                "compile time": 0.1111202,
+                "build time": 0.6773801,
+                "write time": 0.332233,
+                "global bits": 0,
+                "local prefixes": 205,
+                "avg bit length": 10.95609756097561,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.728936
+            },
+            {
+                "compile time": 0.1097569,
+                "build time": 0.772402,
+                "write time": 0.3200259,
+                "global bits": 0,
+                "local prefixes": 208,
+                "avg bit length": 10.971153846153847,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.6701267
+            },
+            {
+                "compile time": 0.1097858,
+                "build time": 0.7236979,
+                "write time": 0.4313829,
+                "global bits": 0,
+                "local prefixes": 206,
+                "avg bit length": 10.96116504854369,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.8943202
+            },
+            {
+                "compile time": 0.1240098,
+                "build time": 0.827642,
+                "write time": 0.3694439,
+                "global bits": 0,
+                "local prefixes": 209,
+                "avg bit length": 10.976076555023923,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.6320689
+            }
+        ]
+    },
+    {
+        "size": 1938,
+        "results": [
+            {
+                "compile time": 0.0613818,
+                "build time": 0.6210842,
+                "write time": 0.3511503,
+                "global bits": 0,
+                "local prefixes": 108,
+                "avg bit length": 10.981481481481481,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.520117
+            },
+            {
+                "compile time": 0.0670049,
+                "build time": 0.6219561,
+                "write time": 0.3714948,
+                "global bits": 0,
+                "local prefixes": 109,
+                "avg bit length": 10.990825688073395,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.541347
+            },
+            {
+                "compile time": 0.0684419,
+                "build time": 0.6550009,
+                "write time": 0.4579539,
+                "global bits": 0,
+                "local prefixes": 103,
+                "avg bit length": 10.932038834951456,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.6781809
+            },
+            {
+                "compile time": 0.0729642,
+                "build time": 0.6361737,
+                "write time": 0.3703661,
+                "global bits": 0,
+                "local prefixes": 109,
+                "avg bit length": 10.990825688073395,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.6092372
+            },
+            {
+                "compile time": 0.0665619,
+                "build time": 0.6453702,
+                "write time": 0.3729208,
+                "global bits": 0,
+                "local prefixes": 109,
+                "avg bit length": 10.990825688073395,
+                "max bit length": 11,
+                "min bit length": 10,
+                "test time": 0.538703
+            }
+        ]
+    }
+]
