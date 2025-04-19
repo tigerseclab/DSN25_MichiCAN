@@ -1,6 +1,6 @@
 # MichiCAN: Spoofing and Denial-of-Service Protection using Integrated CAN Controllers
 
-## What’s Inside
+## Content
 - **FSM_Generation**: Python scripts and Arduino templates that auto-generate FSM sketches targeting specific CAN IDs.
 - **Helpers**: Bash scripts to build, deploy, and test the generated sketches. Also includes the sketch used to measure time via ESPs.
 - **MichiCAN_due_examples**: Example sketches that bring MichiCAN to life.
